@@ -1,2 +1,2 @@
-# mmo-lvcyd
-General Repo for Lvcyd MMO project
+# kaos
+General Repo for Lvcyd MMO project, code name Kaos
