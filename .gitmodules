@@ -1,0 +1,3 @@
+[submodule "kaos-assets"]
+	path = kaos-assets
+	url = https://github.com/Juloass/kaos-assets
