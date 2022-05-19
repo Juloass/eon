@@ -1,2 +1,2 @@
 # kaos
-General Repo for Lvcyd MMO project, code name Kaos
+General Repo for Lvcyd MMO project "Eon Tales"
