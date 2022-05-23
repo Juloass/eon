@@ -1,3 +1,6 @@
-[submodule "kaos-assets"]
+[submodule "eon-assets"]
 	path = kaos-assets
-	url = https://github.com/Juloass/kaos-assets
+	url = https://github.com/Juloass/eon-assets
+[submodule "eon-site"]
+	path = eon-site
+	url = https://github.com/Juloass/eon-site
