@@ -4,3 +4,6 @@
 [submodule "eon-site"]
 	path = eon-site
 	url = https://github.com/Juloass/eon-site
+[submodule "eon-mod"]
+	path = eon-mod
+	url = https://github.com/Juloass/eon-mod.git
