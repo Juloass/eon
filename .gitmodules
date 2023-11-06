@@ -7,3 +7,6 @@
 [submodule "eon-mod"]
 	path = eon-mod
 	url = https://github.com/Juloass/eon-mod.git
+[submodule "eon-replace"]
+	path = eon-replace
+	url = https://github.com/Juloass/eon-replace.git
